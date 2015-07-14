@@ -1,1 +1,2 @@
 this is my first use Git
+this is my second open the text
